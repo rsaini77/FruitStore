@@ -11,11 +11,11 @@ using System.Threading.Tasks;
 namespace FruitStore.UnitTests
 {
     [TestClass]
-    public class FruitServiceTest
+    public class FruitServiceUnitTest
     {
         IFruitService _fruitService;
 
-        public FruitServiceTest()
+        public FruitServiceUnitTest()
         {
 
         }
